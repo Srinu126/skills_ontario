@@ -1,7 +1,13 @@
+import CTA from "@/components/cta";
+import FAQ from "@/components/faq";
+import Hero from "@/components/hero";
+
 export default function Home() {
   return (
-   <div>
-    <h1 className="text-red-700 text-3xl">Hello World</h1>
+   <div className="mt-[73px]">
+    <Hero/>
+    <CTA/>
+    <FAQ/>
    </div>
   );
 }
