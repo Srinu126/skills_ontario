@@ -55,7 +55,7 @@ const BookDetail = () => {
 
   return (
     <>
-      <div className="bg-[#1a1a1a] mt-[73px] text-white flex items-start justify-start gap-12 p-8">
+      <div className="bg-[#1a1a1a] mt-[73px] text-white flex flex-col md:flex-row md:gap-12 items-start justify-start gap-12 p-8">
         <div className="max-w-4xl w-full  p-6 rounded-lg shadow-lg flex">
           <div className="flex-1 text-lg">
             <h1 className="text-3xl font-semibold mb-2">{book.title}</h1>
@@ -108,7 +108,6 @@ const BookDetail = () => {
             </div>
           </div>
         </div>
-        <div>
           <Carousel
             plugins={[plugin.current]}
             className="w-full max-w-xs"
@@ -133,7 +132,6 @@ const BookDetail = () => {
             <CarouselPrevious />
             <CarouselNext />
           </Carousel>
-        </div>
       </div>
       <PopularBooks name="Related" />
     </>

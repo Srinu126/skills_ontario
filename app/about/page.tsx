@@ -33,10 +33,10 @@ const AboutBoard = () => {
           />
         </div>
 
-        <Card className="w-full lg:w-6/12 h-auto bg-[#1F1F1F] flex flex-row items-start justify-between p-8 rounded-2xl shadow-lg">
-          <CardContent className="h-full flex flex-col items-start justify-between text-white gap-4">
+        <Card className="w-full lg:w-6/12 h-auto bg-[#1F1F1F] flex flex-row items-start justify-center p-8 rounded-2xl shadow-lg">
+          <CardContent className="h-full flex flex-col items-start justify-center text-white gap-4">
             <div className="text-4xl font-semibold">
-              <span className="text-[#FF6F61]">Book Verse</span>
+              <span className="text-[#FF6F61]">BookVerse</span>
             </div>
             <div className="text-lg font-medium text-[#E0E0E0]">
               Welcome to BookVerse, your ultimate destination for discovering

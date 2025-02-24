@@ -21,7 +21,7 @@ const BooksList = () => {
       <div className="min-h-screen mt-[73px] flex items-center justify-center px-4 py-8">
         <div className="w-full max-w-7xl">
           <h1 className="text-3xl text-gradient font-bold text-center mb-8">
-            Books List
+            Books
           </h1>
           <div className="grid grid-cols-1 place-items-center sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {pageBooks.map((book: Book) => (
