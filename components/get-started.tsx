@@ -1,8 +1,10 @@
 import Image from "next/image";
 import styles from "../styles";
+import Link from "next/link";
 
 const GetStarted = () => (
-  <div
+  <Link
+    href="/books"
     className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer`}
   >
     <div
@@ -25,7 +27,7 @@ const GetStarted = () => (
         <span className="text-gradient">Books</span>
       </p>
     </div>
-  </div>
+  </Link>
 );
 
 export default GetStarted;

@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "_id": "1",
+      "publishyear": 2014,
+      "title": "The 5 AM Club",
+      "author": "Robin Sharma",
+      "imgLink": "five_am_club.jpg"
+    },
+    {
+      "_id": "2",
+      "publishyear": 2021,
+      "title": "The Four Winds",
+      "author": "Kristin Hannah",
+      "imgLink": "four_winds.jpg"
+    },
+    {
+      "_id": "3",
+      "publishyear": 2021,
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "imgLink": "power_of_habit.webp"
+    },
+    {
+      "_id": "4",
+      "publishyear": 1960,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "imgLink": "mocking_bird.jpg"
+    },
+    {
+      "_id": "5",
+      "publishyear": 2019,
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "imgLink": "crawdads_sing.jpg"
+    },
+    {
+      "_id": "6",
+      "publishyear": 2001,
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "imgLink": "life_of_pie.jpg"
+    },
+    {
+      "_id": "7",
+      "publishyear": 2020,
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "imgLink": "mid_night.webp"
+    },
+    {
+      "_id": "8",
+      "publishyear": 2009,
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "imgLink": "the_help.jpg"
+    },
+    {
+      "_id": "9",
+      "publishyear": 2003,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "imgLink": "da_vinci_code.jpg"
+    },
+    {
+      "_id": "10",
+      "publishyear": 2017,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "imgLink": "educated.jpg"
+    },
+    {
+      "_id": "11",
+      "publishyear": 2020,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "imgLink": "atomic_habits.webp"
+    },
+    {
+      "_id": "12",
+      "publishyear": 2018,
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "imgLink": "the_subtle_art.webp"
+    },
+    {
+      "_id": "13",
+      "publishyear": 2005,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "imgLink": "hunger_games.jpg"
+    },
+    {
+      "_id": "14",
+      "publishyear": 2018,
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "imgLink": "silent_patient.jpg"
+    },
+    {
+      "_id": "15",
+      "publishyear": 2011,
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "imgLink": "Steve_jobs.webp"
+    },
+    {
+      "_id": "16",
+      "publishyear": 2013,
+      "title": "Daring Greatly",
+      "author": "Brené Brown",
+      "imgLink": "Daring_greatly.jpg"
+    },
+    {
+      "_id": "17",
+      "publishyear": 2016,
+      "title": "You Are a Badass",
+      "author": "Jen Sincero",
+      "imgLink": "you_bad.jpg"
+    },
+    {
+      "_id": "18",
+      "publishyear": 2009,
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "imgLink": "outliers.webp"
+    },
+    {
+      "_id": "19",
+      "publishyear": 2017,
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "imgLink": "start_with.png"
+    },
+    {
+      "_id": "20",
+      "publishyear": 2020,
+      "title": "The Gifts of Imperfection",
+      "author": "Brené Brown",
+      "imgLink": "gifts_of_imperfection.jpg"
+    }
+  ]
+}
