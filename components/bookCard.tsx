@@ -11,6 +11,7 @@ export interface Book {
   title: string;
   author: string;
   imgLink: string;
+  price?: string;
 }
 
 interface BookCardProps {
@@ -38,7 +39,7 @@ const BookCard: React.FC<BookCardProps> = ({ book }) => {
           className="relative h-80 w-80 p-4 pt-6 rounded-2xl flex flex-col items-center justify-center cardShadow"
         >
           <img
-            src={book.imgLink}
+            src={`/${book.imgLink}`}
             alt={book.title}
             className="w-full h-full object-contain rounded-lg mb-4"
           />

@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="mt-[73px]">
       <Hero />
-      <PopularBooks />
+      <PopularBooks name="Popular" />
       <CTA />
       <FAQ />
     </div>
